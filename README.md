@@ -1,3 +1,3 @@
 JavaScript
  
-Simple javascript programm just to learn 
+Simple javascript program just to learn 
